@@ -1,0 +1,36 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
+<!-- Header -->
+<section id="header">
+  <div class="inner">
+    <img class="image" src="/images/logo.svg" alt="" style="width:50%"/>
+    <h1>Unser <strong>Pfarrhaus</strong> im Herzen der Stadt muss erhalten bleiben,</h1>
+    <h3>es soll zu einem zukunftsfähigen Pfarrzentrum ausgebaut werden.</h3>
+    <!--<ul class="actions">
+      <li><a href="#one" class="button scrolly">Wir wollen!</a></li>
+    </ul>-->
+  </div>
+</section>
+
+{% for section in site.sections %}
+{% capture id %}{{ section.id | remove:'/' | downcase }}{% endcapture %}
+  {{ section.content }}
+{% endfor %}
+
+<!--
+<section id="four" class="main style2 special">
+  <div class="container">
+    <header class="major">
+      <h2>Per eMail auf den Laufenden bleiben?</h2>
+    </header>
+    <p>Abonnieren sie unseren Newsletter</p>
+    <ul class="actions uniform">
+      <li><a href="#" class="button special">Sign Up</a></li>
+    </ul>
+  </div>
+</section>
+Four -->
