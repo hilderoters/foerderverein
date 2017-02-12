@@ -27,7 +27,7 @@ permalink: /
           <h3>Events</h3>
         <ul class="align-left">
           {% for event in site.events %}
-          <li><a href="{{ site.github.url }}/{{ event.url }}">{{ event.title }}</a></li>
+          <li><a href="{{ site.github.url }}{{ event.url }}">{{ event.title }}</a></li>
           {% endfor %}
         </ul>
       </div>
@@ -36,7 +36,7 @@ permalink: /
         <ul class="align-left">
           {% for news in site.news %}
             {% if news.category == 'Aktuelles'%}
-            <li><a href="{{ site.github.url }}/{{ news.url }}">{{ news.title }}</a></li>
+            <li><a href="{{ site.github.url }}{{ news.url }}">{{ news.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
@@ -46,7 +46,7 @@ permalink: /
         <ul class="align-left">
           {% for news in site.news %}
           {% if news.category == 'Interessantes'%}
-          <li><a href="{{ site.github.url }}/{{ news.url }}">{{ news.title }}</a></li>
+          <li><a href="{{ site.github.url }}{{ news.url }}">{{ news.title }}</a></li>
           {% endif %}
           {% endfor %}
         </ul>
@@ -56,7 +56,7 @@ permalink: /
         <ul class="align-left">
           {% for news in site.news %}
           {% if news.category == 'Informatives'%}
-          <li><a href="{{ site.github.url }}/{{ news.url }}">{{ news.title }}</a></li>
+          <li><a href="{{ site.github.url }}{{ news.url }}">{{ news.title }}</a></li>
           {% endif %}
           {% endfor %}
         </ul>
