@@ -43,13 +43,22 @@ style: center
 <p>
 Bei einem Mitgliederbeitrag ( Mindestbeitrag ) von 24,-- im Jahr kann jeder mitmachen.
 </p>
+<a href="{{ site.github.url }}/download/foerderverein-pfarrzentrum-st-martin.pdf" target="_blank" class="button special">
+<i class="fa fa-file-text-o" aria-hidden="true"></i>
+Formular herunterladen
+</a>
+
 </div>
   
 <div id="foerderer" style="display:none;">
 <h2>Förderer werden</h2>
 <p>
-Sind Sie kein Vereinsmensch, wollen aber das Ziel unterstützen, dann sind Sie als Förderer ohne Vereinsmitgliedschaft willkommen.
+Sie sind kein Vereinsmensch, wollen aber das Ziel unterstützen, dann sind Sie als Förderer ohne Vereinsmitgliedschaft willkommen.
 </p>
+<a href="{{ site.github.url }}/download/foerderverein-pfarrzentrum-st-martin.pdf" target="_blank" class="button special">
+<i class="fa fa-file-text-o" aria-hidden="true"></i>
+Formular herunterladen
+</a>
 </div>
 
 <div id="spenden" style="display:none;">
@@ -57,4 +66,8 @@ Sind Sie kein Vereinsmensch, wollen aber das Ziel unterstützen, dann sind Sie a
 <p>
 Auch Spenden sind eine hilfreiche Form der wohlwollenden Unterstützung.
 </p>
+<a href="{{ site.github.url }}/download/foerderverein-pfarrzentrum-st-martin.pdf" target="_blank" class="button special">
+<i class="fa fa-file-text-o" aria-hidden="true"></i>
+Formular herunterladen
+</a>
 </div>

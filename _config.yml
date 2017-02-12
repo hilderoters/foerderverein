@@ -17,6 +17,22 @@ collections:
     output: false
   news:
     output: true
+    layout: detail
+  events:
+    output: true
+    layout: news
+
+defaults:
+  - scope:
+      path: "_news"
+      type: news
+    values:
+      layout: detail
+  - scope:
+      path: "_events"
+      type: events
+    values:
+      layout: event
 
 # Build settings
 markdown: kramdown
