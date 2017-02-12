@@ -7,18 +7,63 @@ permalink: /
 <!-- Header -->
 <section id="header">
   <div class="inner">
-    <img class="image" src="{{ site.github.url }}/images/logo.svg" alt="" style="width:50%"/>
+    <img class="image" src="{{ site.github.url }}/images/logo.svg" alt="" style="width:45%"/>
     <h1>Unser <strong>Pfarrhaus</strong> im Herzen der Stadt muss erhalten bleiben,</h1>
     <h3>es soll zu einem zukunftsfähigen Pfarrzentrum ausgebaut werden.</h3>
-    <!--<ul class="actions">
-      <li><a href="#one" class="button scrolly">Wir wollen!</a></li>
-    </ul>-->
+    <ul class="actions align-center">
+      <li><a href="#one" class="button scrolly align-left">Wir wollen!</a>
+      </li>
+    </ul>
   </div>
 </section>
 
 {% for section in site.sections %}
 {% capture id %}{{ section.id | remove:'/' | downcase }}{% endcapture %}
-  {{ section.content }}
+{{ section.content }}
+{% if id == 'sections01-wir-wollen'%}
+<div class="container">
+    <div class="row">
+      <div class="3u">
+          <h3>Events</h3>
+        <ul class="align-left">
+          {% for event in site.events %}
+          <li><a href="{{ event.url }}">{{ event.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="3u">
+        <h3>Aktuelles</h3>
+        <ul class="align-left">
+          {% for news in site.news %}
+            {% if news.category == 'Aktuelles'%}
+            <li><a href="{{ news.url }}">{{ news.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="3u">
+        <h3>Interessantes</h3>
+        <ul class="align-left">
+          {% for news in site.news %}
+          {% if news.category == 'Interessantes'%}
+          <li><a href="{{ news.url }}">{{ news.title }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="3u$">
+        <h3>Informatives</h3>
+        <ul class="align-left">
+          {% for news in site.news %}
+          {% if news.category == 'Informatives'%}
+          <li><a href="{{ news.url }}">{{ news.title }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+</div>
+{% endif %}
 {% endfor %}
 
 <!--
