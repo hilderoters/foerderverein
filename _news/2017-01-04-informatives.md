@@ -1,4 +1,0 @@
----
-title: Informatives
-category: Informatives
----
