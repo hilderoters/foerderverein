@@ -31,7 +31,7 @@ style: center
         <ul class="actions uniform">
           <li style="margin-top:15px;"><a href="#mitglied" rel="modal:open" class="button">Mitglied werden</a></li>
           <li style="margin-top:15px;"><a href="#foerderer" rel="modal:open" class="button">Förderer werden</a></li>                      
-          <li style="margin-top:15px;"><a href="#spenden" rel="modal:open" class="button special">Jetzt Spenden</a></li>
+          <li style="margin-top:15px;"><a href="#spenden" rel="modal:open" class="button">Jetzt Spenden</a></li>
         </ul>
       </div>
     </div>
