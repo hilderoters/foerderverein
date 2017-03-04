@@ -10,15 +10,61 @@
 
 <!-- Header -->
 <section id="header">
-    <div class="inner">
-        <h1>{{ page.title }}</h1>
-        <h3>{{ page.description }}</h3>
+    <div class="container">
+        <div class="inner">
+            <h1>{{ page.title }}</h1>
+            <h3>{{ page.description }}</h3>
+            <a href="{{ site.github.url }}/" style="border:none;">
+                <img class="image" src="{{ site.github.url }}/images/logo.svg" alt="Startseite" style="width: 220px;"/>
+            </a>
+            <ul class="actions align-center">
+                <li><a href="#when" class="button scrolly align-left">{{page.when}}</a>
+                </li>
+            </ul>
+        </div>
     </div>
 </section>
 
-<section class="main style1">
+<section class="main style1" id="when">
     <div class="container">
-        {{ content }}
+        <div class="row">
+            <div class="6u">
+                {{ content }}
+
+                <table>
+                    <tbody>
+                        <tr>
+                            <td><b>Wann</b></td>
+                            <td>{{page.when}}</td>
+                        </tr>
+                        {% if page.starts != ''%}
+                        <tr>
+                            <td><b>Beginn</b></td>
+                            <td>{{page.starts}}</td>
+                        </tr>
+                        {% endif%}
+                        <tr>
+                            <td><b>Wo</b></td>
+                            <td>{{page.where}}</td>
+                        </tr>
+
+                        <tr>
+                            <td><b>Eintritt</b></td>
+                            <td>{{page.price}}</td>
+                        </tr>
+                        {% if page.presale != ''%}
+                        <tr>
+                            <td><b>Vorverkauf</b></td>
+                            <td>{{page.presale}}</td>
+                        </tr>
+                        {% endif%}
+                    </tbody>
+                </table>
+            </div>
+            <div class="6u$">
+                <img style="width:98%;" src="{{ page.image }}">
+            </div>
+        </div>
     </div>
 </section>
 
