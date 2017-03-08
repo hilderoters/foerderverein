@@ -55,7 +55,7 @@ Formular herunterladen
 <p>
 Sie sind kein Vereinsmensch, wollen aber das Ziel unterstützen, dann sind Sie als Förderer ohne Vereinsmitgliedschaft willkommen.
 </p>
-<a href="{{ site.github.url }}/download/foerderverein-spende.pdf" target="_blank" class="button special">
+<a href="{{ site.github.url }}/download/foerderverein-unterstuetzer.pdf" target="_blank" class="button special">
 <i class="fa fa-file-text-o" aria-hidden="true"></i>
 Formular herunterladen
 </a>
@@ -66,7 +66,7 @@ Formular herunterladen
 <p>
 Auch Spenden sind eine hilfreiche Form der wohlwollenden Unterstützung.
 </p>
-<a href="{{ site.github.url }}/download/foerderverein-unterstuetzer.pdf" target="_blank" class="button special">
+<a href="{{ site.github.url }}/download/foerderverein-spende.pdf" target="_blank" class="button special">
 <i class="fa fa-file-text-o" aria-hidden="true"></i>
 Formular herunterladen
 </a>
