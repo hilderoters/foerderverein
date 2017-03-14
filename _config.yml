@@ -7,10 +7,11 @@
 
 # Site settings
 title: Förderverein Pfarrzentrum St. Martin Cochem e.V.
-email: info@foerderverein-pfarrzentrum.de
-description:
+email: pfarrzentrum@unsercochem.de
+description: Unser Pfarrhaus im Herzen der Stadt Cochemn muss erhalten bleiben, es soll zu einem zukunftsfähigen Pfarrzentrum ausgebaut werden.
+    
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://foerderverein-pfarrzentrum.de" # the base hostname & protocol for your site
+url: "http://unsercochem.de" # the base hostname & protocol for your site
 
 collections:
   sections:
