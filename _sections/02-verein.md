@@ -13,7 +13,7 @@ style: center
         </header>
         <p>
         Unser Verein wurde gegründet im Dezember 2014 nach einer erfolgreichen Protestaktion
-        gegen den Verkauf des mit unserer Pfarrkirche auch baulich verbundenen Pfarrhauses.
+        gegen den Verkauf unseres mit der Pfarrkirche baulich verbundenen Pfarrhauses.     
         </p>
       </div>
       <div class="6u$ 12u$(medium) important(medium)">
@@ -22,7 +22,7 @@ style: center
             Glauben Sie, dass ein gebündelter Wille Durchsetzungskraft hat?
         </li>
         <li>
-         Sind Sie heimat- und/oder - kirchenverbunden?
+         Sind Sie heimat- und/oder kirchenverbunden?
         </li>
         <li>
         Gehören Sie zu den bekennenden Optimisten?
