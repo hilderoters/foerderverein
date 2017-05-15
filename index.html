@@ -34,8 +34,8 @@ permalink: /
       <div class="6u$">
         <h3>Aktuelles</h3>
         <ul class="align-left">
-          {% for news in site.news %}
-            <li><a href="{{ site.github.url }}{{ news.url }}">{{ news.title }}</a></li>
+          {% for news in site.news reversed%}
+            <li>{{ news.date | date: "%-d.%-m.%Y" }} - <a href="{{ site.github.url }}{{ news.url }}">{{ news.title }}</a></li>
           {% endfor %}
         </ul>
       </div>
