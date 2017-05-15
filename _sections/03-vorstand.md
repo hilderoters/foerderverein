@@ -39,3 +39,11 @@ style: center
     </div>
   </div>
 </section>
+
+<section id="two" class="main style2" style="background-position: center center;background-image: url('images/overlay1.png'), url('../../images/vorstand.jpg');">
+  <div class="container">
+    <div class="row 150%" style="height:340px;">
+      
+    </div>
+  </div>
+</section>
