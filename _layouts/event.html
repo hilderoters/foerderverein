@@ -28,7 +28,7 @@
 <section class="main style1" id="when">
     <div class="container">
         <div class="row">
-            <div class="6u">
+            <div class="{% if page.image %}6u{% else %}11u{% endif%}">
                 {{ content }}
 
                 <table>
@@ -37,7 +37,7 @@
                             <td><b>Wann</b></td>
                             <td>{{page.when}}</td>
                         </tr>
-                        {% if page.starts != ''%}
+                        {% if page.starts %}
                         <tr>
                             <td><b>Beginn</b></td>
                             <td>{{page.starts}}</td>
@@ -47,12 +47,13 @@
                             <td><b>Wo</b></td>
                             <td>{{page.where}}</td>
                         </tr>
-
+                        {% if page.price %}
                         <tr>
                             <td><b>Eintritt</b></td>
-                            <td>{{page.price}}</td>
+                            <td>"{{page.price}}"</td>
                         </tr>
-                        {% if page.presale != ''%}
+                        {% endif%}
+                        {% if page.presale %}
                         <tr>
                             <td><b>Vorverkauf</b></td>
                             <td>{{page.presale}}</td>
@@ -61,9 +62,11 @@
                     </tbody>
                 </table>
             </div>
+            {% if page.image %}
             <div class="6u$">
                 <img style="width:98%;" src="{{ site.github.url }}{{ page.image }}">
             </div>
+            {% endif%}
         </div>
     </div>
 </section>
