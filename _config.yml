@@ -43,7 +43,7 @@ kramdown:
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-seo-tag
 
 exclude:
