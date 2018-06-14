@@ -2,6 +2,7 @@
 title: Veränderter Zuschnitt und neuer Name unserer Pfarrei der Zukunft 
 category: Aktuelles
 ---
-PdZ Cochem wurde aufgeteilt in PdZ Kaisersesch und PdZ Cochem Zell Die Pfarreiengemeinschaft Blankenrath wurde de PdZ Cochem Zell zugeordnet.
+Im April 2018 wurde die bisherige Pfarrei Faid mit der Filiale Dohr der PdZ Cochem Zell zugeordnet.
 
 ![Karte der Großpfarrei Cochem](/images/news/karte-grosspfarrei-cochem-zell.jpg)
+![Karte der Großpfarrei Cochem](/images/news/karte-grosspfarrei-cochem-zell-aktualisiert.jpg)
