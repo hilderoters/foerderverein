@@ -8,7 +8,8 @@ organizer: Förderverein Pfarrzentrum St. Martin e.V.
 ---
 ## Einladung zur Mitgliederversammlung
 
-Auf Beschluss des Vorstandes lade ich alle Mitglieder des Fördervereins Pfarrzentrum St. Martin Cochem e.V. zur Jahresmitgliederversammlung ein für Dienstag, den 21. November 2017, 19.00 Uhr, in das Refektorium des Kapuzinerklosters mit folgender Tagesordnung:
+Auf Beschluss des Vorstandes lade ich alle Mitglieder des Fördervereins Pfarrzentrum St. Martin Cochem e.V. zur Jahresmitgliederversammlung ein für 
+Dienstag, den 12. Februar 2019, 19.00 Uhr, in das Refektorium des Kapuzinerklosters mit folgender Tagesordnung:
 
 1. Begrüßung/Feststellung der Beschlussfähigkeit
 2. Bericht des Vorstandes mit anschließender Aussprache
@@ -21,10 +22,13 @@ Auf Beschluss des Vorstandes lade ich alle Mitglieder des Fördervereins Pfarrze
 7. Verschiedenes/Vorschläge/Anregungen
 
 
-Soweit es um den TOP 6: Neuwahlen des Vorstandes - geht, sind Neuwahlen erforderlich, weil die dreijährige Amtszeit des bisherigen Vorstandes ausläuft. Der gesamte Vorstand bestehend aus dem Vorsitzenden, dem Stellvertreter, dem Schatzmeister, dem Schriftführer und bisher  vier Beisitzern ist neu zu wählen. Durch die Umsetzung der Synodenbeschlüsse kommt den Aktivitäten an der Basis mehr Gewicht zu. Dieser Perspektivwechsel könnte auch der Bedeutung unseres Vereins zugute kommen. 
+Soweit es um den TOP 6: Neuwahlen des Vorstandes - geht, sind Neuwahlen erforderlich, weil die dreijährige Amtszeit des bisherigen Vorstandes ausläuft.
+Der gesamte Vorstand bestehend aus dem Vorsitzenden, dem Stellvertreter, dem Schatzmeister, dem Schriftführer und bisher  vier Beisitzern ist neu zu wählen.
+Durch die Umsetzung der Synodenbeschlüsse kommt den Aktivitäten an der Basis mehr Gewicht zu. 
+Dieser Perspektivwechsel könnte auch der Bedeutung unseres Vereins zugute kommen. 
 Ich bitte daher um möglichst  zahlreiche Teilnahme.
 
-<div style="float:right;">Cochem, den 12. 02. 2019<br>
+<div style="float:right;">Cochem, den 23. 01. 2019<br>
 Bernhard Theisen, Vorsitzender
 <br>
 <br>
