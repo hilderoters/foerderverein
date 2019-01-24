@@ -9,7 +9,7 @@ organizer: Förderverein Pfarrzentrum St. Martin e.V.
 ## Einladung zur Mitgliederversammlung
 
 Auf Beschluss des Vorstandes lade ich alle Mitglieder des Fördervereins Pfarrzentrum St. Martin Cochem e.V. zur Jahresmitgliederversammlung ein für 
-Dienstag, den 12. Februar 2019, 19.00 Uhr, in das Refektorium des Kapuzinerklosters mit folgender Tagesordnung:
+Dienstag, den 12. Februar 2019, 19.00 Uhr, in die Gaststätte Noss Cochem mit folgender Tagesordnung:
 
 1. Begrüßung/Feststellung der Beschlussfähigkeit
 2. Bericht des Vorstandes mit anschließender Aussprache
