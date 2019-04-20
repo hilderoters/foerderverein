@@ -15,9 +15,10 @@ fields:
     time_format: h:mm
     display_utc: 
   default: ''
-- type: text
-  name: category
-  label: category
+- name: category
+  type: tag_list
+  default: []
+  label: Kategorie
 pages:
 - _news/protokoll-über-die-mitgliederversammlung-vom-12-02-2019.md
 - _news/2019-01-10-Zell-soll-Pfarrort-der-neuen-Grosspfarrei-werden.md
