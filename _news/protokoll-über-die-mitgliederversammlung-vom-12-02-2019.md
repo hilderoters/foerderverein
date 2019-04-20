@@ -12,8 +12,8 @@ Der Vorsitzende begrüßt die erschienenen Mitglieder und stellt fest, dass durc
 1. Begrüßung/Feststellung der Beschlussfähigkeit
 2. Bericht des Vorstandes mit anschließender Aussprache
 3. Kassen- und Kassenprüfberichte
-   3.1  Bericht des Schatzmeisters
-   3.2  Bericht der Kassenprüfer
+   - a) Bericht des Schatzmeisters
+   - b) Bericht der Kassenprüfer
 4. Entlastung des Vorstandes
 5. Neuwahlen des Vorstandes
 6. Neuwahl der Kassenprüfer
@@ -63,7 +63,7 @@ Schließlich dankt der Vorsitzende den verbliebenen Vorstandsmitgliedern dafür,
 
 Nachdem der Vorsitzende für jede einzelne Position eine Vorschlagsmöglichkeit eröffnet hatte und jeweils nur der Vorschlag, welcher der späteren Wahl entspricht, unterbreitet wurde, wählt die Mitgliederversammlung nachfolgend jeweils einstimmig ohne Gegenstimme und Enthaltung den Vorstand neu wie folgt:
 
-\1. Vorsitzender: 	Bernhard Theisen
+\\1. Vorsitzender: 	Bernhard Theisen
 stellvertretender Vorsitzender: 	Helmut Laux
 Schatzmeister: 	Manfred Johann
 Schriftführer: 	Elisabeth Zenz
