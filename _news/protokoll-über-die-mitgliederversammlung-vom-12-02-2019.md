@@ -2,30 +2,21 @@
 title: Protokoll über die Mitgliederversammlung vom 12.02.2019
 category: Aktuelles
 date: 2019-04-20 14:04:19 +0000
-published: false
 
 ---
 ### TOP 1 - Begrüßung/Feststellung der Beschlussfähigkeit
 
 Der Vorsitzende begrüßt die erschienenen Mitglieder und stellt fest, dass durch Veröffentlichung im Stadt- und Landboten form- und fristgerecht zur Mitgliederversammlung mit folgender Tagesordnung eingeladen wurde:
 
-1\. 	Begrüßung/Feststellung der Beschlussfähigkeit
-
-2\.	Bericht des Vorstandes mit anschließender Aussprache
-
-3\. 	Kassen- und Kassenprüfberichte
-
-    a) Bericht des Schatzmeisters
-    
-    b) Bericht der Kassenprüfer
-
-4\. 	Entlastung des Vorstandes
-
-5\. 	Neuwahlen des Vorstandes
-
-6\. 	Neuwahl der Kassenprüfer
-
-7\. 	Verschiedenes/Vorschläge/Anregungen.
+1.  	Begrüßung/Feststellung der Beschlussfähigkeit
+2. 	Bericht des Vorstandes mit anschließender Aussprache
+3.  	Kassen- und Kassenprüfberichte
+   1.  Bericht des Schatzmeisters
+   2.  Bericht der Kassenprüfer
+4.  	Entlastung des Vorstandes
+5.  	Neuwahlen des Vorstandes
+6.  	Neuwahl der Kassenprüfer
+7.  	Verschiedenes/Vorschläge/Anregungen.
 
 Die Anwesenheitsliste mit 19 eingetragenen Mitgliedern ist Anlage 1 zum Protokoll.
 
