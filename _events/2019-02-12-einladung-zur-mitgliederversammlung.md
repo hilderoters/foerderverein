@@ -1,10 +1,12 @@
 ---
 title: Einladung zur Mitgliederversammlung 12. Februar 2019
-description: Auf Beschluss des Vorstandes lade ich alle Mitglieder des Fördervereins Pfarrzentrum St. Martin Cochem e.V. zur Jahresmitgliederversammlung ein
+description: Auf Beschluss des Vorstandes lade ich alle Mitglieder des Fördervereins
+  Pfarrzentrum St. Martin Cochem e.V. zur Jahresmitgliederversammlung ein
 when: Dienstag, den 12. Februar 2019
 starts: 19.30 Uhr
 where: Obergeschoss der Gaststätte Noss Cochem
 organizer: Förderverein Pfarrzentrum St. Martin e.V.
+
 ---
 ## Einladung zur Mitgliederversammlung
 
