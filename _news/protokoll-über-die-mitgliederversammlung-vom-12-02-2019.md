@@ -9,15 +9,15 @@ published: false
 
 Der Vorsitzende begrüßt die erschienenen Mitglieder und stellt fest, dass durch Veröffentlichung im Stadt- und Landboten form- und fristgerecht zur Mitgliederversammlung mit folgender Tagesordnung eingeladen wurde:
 
-1.  	Begrüßung/Feststellung der Beschlussfähigkeit
-2. 	Bericht des Vorstandes mit anschließender Aussprache
-3.  	Kassen- und Kassenprüfberichte
-   1.  Bericht des Schatzmeisters
-   2.  Bericht der Kassenprüfer
-4.  	Entlastung des Vorstandes
-5.  	Neuwahlen des Vorstandes
-6.  	Neuwahl der Kassenprüfer
-7.  	Verschiedenes/Vorschläge/Anregungen.
+1. Begrüßung/Feststellung der Beschlussfähigkeit
+2. Bericht des Vorstandes mit anschließender Aussprache
+3. Kassen- und Kassenprüfberichte
+   3.1  Bericht des Schatzmeisters
+   3.2  Bericht der Kassenprüfer
+4. Entlastung des Vorstandes
+5. Neuwahlen des Vorstandes
+6. Neuwahl der Kassenprüfer
+7. Verschiedenes/Vorschläge/Anregungen.
 
 Die Anwesenheitsliste mit 19 eingetragenen Mitgliedern ist Anlage 1 zum Protokoll.
 
@@ -36,13 +36,11 @@ Die Mitgliederversammlung beauftragt sodann den Vorstand, eine entsprechende Ste
 ### TOP 3 - Kassen-und Kassenprüfberichte
 
 a)
-
 Der Schatzmeister Manfred Johann erstattet den Kassenbericht. Aktuell beläuft sich das Guthaben des Vereins auf € 31.509,00 bei 72 Mitgliedern.
 
 Der Vorsitzende weist darauf hin, dass im Jahr 2018 die Beiträge verspätet eingezogen wurden und deshalb die Zuwendungsbescheinigungen für die Beiträge 2018 erst für das Jahr 2019 ausgestellt werden können. Er sagt zu, dass der Schatzmeister künftig die Beiträge entsprechend der Beschlusslage der Mitgliederversammlung jeweils zum Mai eines jeden Jahres einzieht.
 
 b)
-
 Der Kassenprüfer Manfred Müller erstattet zugleich für den weiteren Kassenprüfer Paul-Werner Willems den Kassenbericht und bestätigt dem Schatzmeister eine ordnungsgemäße Kassenführung.
 
 Eine Aussprache zu den Kassen- und Kassenprüfberichten wird nicht gewünscht.
@@ -65,22 +63,14 @@ Schließlich dankt der Vorsitzende den verbliebenen Vorstandsmitgliedern dafür,
 
 Nachdem der Vorsitzende für jede einzelne Position eine Vorschlagsmöglichkeit eröffnet hatte und jeweils nur der Vorschlag, welcher der späteren Wahl entspricht, unterbreitet wurde, wählt die Mitgliederversammlung nachfolgend jeweils einstimmig ohne Gegenstimme und Enthaltung den Vorstand neu wie folgt:
 
-\- 	1. Vorsitzender: 	Bernhard Theisen
-
-\- 	stellvertretender Vorsitzender: 	Helmut Laux
-
-\- 	Schatzmeister: 	Manfred Johann
-
-\- 	Schriftführer: 	Elisabeth Zenz
-
-\- 	Beisitzer: 	
-
+\1. Vorsitzender: 	Bernhard Theisen
+stellvertretender Vorsitzender: 	Helmut Laux
+Schatzmeister: 	Manfred Johann
+Schriftführer: 	Elisabeth Zenz
+Beisitzer: 	
 Vera Marx
-
 Gabriele Meurer
-
 Dorothee Müller-Renn
-
 Hilde Roters
 
 Auf Nachfrage erklären alle Gewählten: Wir nehmen die Wahl an.
