@@ -8,3 +8,5 @@ fields:
 - type: text
   name: category
   label: category
+pages:
+- _news/2017-05-08-pfarreien-der-zukunft.md
