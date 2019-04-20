@@ -5,6 +5,15 @@ fields:
 - type: text
   name: title
   label: title
+- name: date
+  type: datetime
+  label: Datum
+  description: ''
+  config:
+    required: true
+    date_format: ''
+    time_format: 
+    display_utc: 
 - type: text
   name: category
   label: category
