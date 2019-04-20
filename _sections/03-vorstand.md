@@ -1,8 +1,9 @@
 ---
-title: "Wir wollen"
+title: Der Vorstand stellt sich vor
 bg: white
 color: black
 style: center
+
 ---
 <section id="one" class="main style1">
   <div class="container">
