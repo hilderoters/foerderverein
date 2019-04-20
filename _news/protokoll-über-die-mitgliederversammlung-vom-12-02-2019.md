@@ -1,6 +1,6 @@
 ---
 title: Protokoll über die Mitgliederversammlung vom 12.02.2019
-category: ''
+category: Aktuelles
 date: 2019-04-20 14:04:19 +0000
 published: false
 
