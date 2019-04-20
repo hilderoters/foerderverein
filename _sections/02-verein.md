@@ -1,8 +1,9 @@
 ---
-title: "Wir wollen"
+title: Ziel des Vereins
 bg: white
 color: black
 style: center
+
 ---
 <section id="two" class="main style2">
   <div class="container">
