@@ -11,9 +11,10 @@ fields:
   description: ''
   config:
     required: true
-    date_format: ''
-    time_format: 
+    date_format: DD.MM.YY
+    time_format: h:mm
     display_utc: 
+  default: ''
 - type: text
   name: category
   label: category
