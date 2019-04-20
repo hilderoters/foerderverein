@@ -11,7 +11,7 @@ email: pfarrzentrum@unsercochem.de
 description: Unser Pfarrhaus im Herzen der Stadt Cochemn muss erhalten bleiben, es soll zu einem zukunftsfähigen Pfarrzentrum ausgebaut werden.
     
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://unsercochem.de" # the base hostname & protocol for your site
+url: "https://unsercochem.de" # the base hostname & protocol for your site
 
 collections:
   sections:
