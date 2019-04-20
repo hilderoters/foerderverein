@@ -5,7 +5,6 @@ date: 2019-04-20 14:04:19 +0000
 published: false
 
 ---
-
 ### TOP 1 - Begrüßung/Feststellung der Beschlussfähigkeit
 
 Der Vorsitzende begrüßt die erschienenen Mitglieder und stellt fest, dass durch Veröffentlichung im Stadt- und Landboten form- und fristgerecht zur Mitgliederversammlung mit folgender Tagesordnung eingeladen wurde:
@@ -16,9 +15,9 @@ Der Vorsitzende begrüßt die erschienenen Mitglieder und stellt fest, dass durc
 
 3\. 	Kassen- und Kassenprüfberichte
 
-   	a) Bericht des Schatzmeisters
-
-   	b) Bericht der Kassenprüfer
+    a) Bericht des Schatzmeisters
+    
+    b) Bericht der Kassenprüfer
 
 4\. 	Entlastung des Vorstandes
 
@@ -44,7 +43,7 @@ Die Mitgliederversammlung beauftragt sodann den Vorstand, eine entsprechende Ste
 
 ### TOP 3 - Kassen-und Kassenprüfberichte
 
-a) 
+a)
 
 Der Schatzmeister Manfred Johann erstattet den Kassenbericht. Aktuell beläuft sich das Guthaben des Vereins auf € 31.509,00 bei 72 Mitgliedern.
 
@@ -82,13 +81,15 @@ Nachdem der Vorsitzende für jede einzelne Position eine Vorschlagsmöglichkeit 
 
 \- 	Schriftführer: 	Elisabeth Zenz
 
-\- 	Beisitzer: 	Vera Marx
+\- 	Beisitzer: 	
 
-                  	Gabriele Meurer
+Vera Marx
 
-                  	Dorothee Müller-Renn
+Gabriele Meurer
 
-		Hilde Roters
+Dorothee Müller-Renn
+
+Hilde Roters
 
 Auf Nachfrage erklären alle Gewählten: Wir nehmen die Wahl an.
 
@@ -106,7 +107,7 @@ Manfred Müller weist nachdrücklich darauf hin, dass der Vorstand eine Erhöhun
 
 Der Vorsitzende informiert darüber, dass der Vorstand eine Neuausrichtung des Jazz- Konzerts wegen des Kostenrisikos abgelehnt habe. Sinnvoll seien nur Veranstaltungen, die auch tatsächlich einen Erlös abwerfen.
 
-Abschließend legt der neue Vorstand den Termin für die erste Vorstandssitzung fest auf 
+Abschließend legt der neue Vorstand den Termin für die erste Vorstandssitzung fest auf
 
 Dienstag, den 26.03.2016, 19:30 Uhr in der Kanzlei des Unterzeichners.
 
@@ -114,6 +115,6 @@ Der Vorsitzende schließt die Mitgliederversammlung um 20:50 Uhr.
 
 Cochem, den 12.03.2019
 
-___________________________				_________________________
+***
 
- Bernhard Theisen, Vorsitzender				  Elisabeth Zenz, Schriftführer
+Bernhard Theisen, Vorsitzender				  Elisabeth Zenz, Schriftführer
