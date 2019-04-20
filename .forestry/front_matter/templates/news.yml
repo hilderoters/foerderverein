@@ -9,4 +9,5 @@ fields:
   name: category
   label: category
 pages:
+- _news/2018-06-14-veraenderter-zuschnitt-und-neuer-name.md
 - _news/2017-05-08-pfarreien-der-zukunft.md
