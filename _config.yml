@@ -12,6 +12,8 @@ description: Unser Pfarrhaus im Herzen der Stadt Cochemn muss erhalten bleiben, 
     
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unsercochem.de" # the base hostname & protocol for your site
+github:
+  url: "https://unsercochem.de"
 
 collections:
   sections:
