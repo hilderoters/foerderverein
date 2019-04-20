@@ -12,11 +12,15 @@ sections:
   label: Events
   create: all
   match: "**/*"
+  templates:
+  - event
 - type: directory
   path: _news
   label: News
   create: all
   match: "**/*"
+  templates:
+  - news
 - type: directory
   path: _sections
   label: Sections
