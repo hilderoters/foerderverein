@@ -1,6 +1,7 @@
 ---
 title: Protokoll über die Mitgliederversammlung vom 12.02.2019
-category: Aktuelles
+category:
+- Aktuelles
 date: 2019-02-12 15:04:19 +0000
 published: false
 
@@ -12,8 +13,8 @@ Der Vorsitzende begrüßt die erschienenen Mitglieder und stellt fest, dass durc
 1. Begrüßung/Feststellung der Beschlussfähigkeit
 2. Bericht des Vorstandes mit anschließender Aussprache
 3. Kassen- und Kassenprüfberichte
-   - a) Bericht des Schatzmeisters
-   - b) Bericht der Kassenprüfer
+   * a) Bericht des Schatzmeisters
+   * b) Bericht der Kassenprüfer
 4. Entlastung des Vorstandes
 5. Neuwahlen des Vorstandes
 6. Neuwahl der Kassenprüfer
@@ -91,7 +92,7 @@ Der Vorsitzende informiert darüber, dass der Vorstand eine Neuausrichtung des J
 
 Abschließend legt der neue Vorstand den Termin für die erste Vorstandssitzung fest auf
 
-Dienstag, den 26.03.2016, 19:30 Uhr in der Kanzlei des Unterzeichners.
+Dienstag, den 26.03.2019, 19:30 Uhr in der Kanzlei des Unterzeichners.
 
 Der Vorsitzende schließt die Mitgliederversammlung um 20:50 Uhr.
 
