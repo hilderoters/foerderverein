@@ -3,7 +3,6 @@ title: Protokoll über die Mitgliederversammlung vom 12.02.2019
 category:
 - Aktuelles
 date: 2019-02-12 15:04:19 +0000
-published: false
 
 ---
 ### TOP 1 - Begrüßung/Feststellung der Beschlussfähigkeit
@@ -64,15 +63,15 @@ Schließlich dankt der Vorsitzende den verbliebenen Vorstandsmitgliedern dafür,
 
 Nachdem der Vorsitzende für jede einzelne Position eine Vorschlagsmöglichkeit eröffnet hatte und jeweils nur der Vorschlag, welcher der späteren Wahl entspricht, unterbreitet wurde, wählt die Mitgliederversammlung nachfolgend jeweils einstimmig ohne Gegenstimme und Enthaltung den Vorstand neu wie folgt:
 
-\\1. Vorsitzender: 	Bernhard Theisen
-stellvertretender Vorsitzender: 	Helmut Laux
-Schatzmeister: 	Manfred Johann
-Schriftführer: 	Elisabeth Zenz
-Beisitzer: 	
-Vera Marx
-Gabriele Meurer
-Dorothee Müller-Renn
-Hilde Roters
+**1. Vorsitzender:** 	Bernhard Theisen 
+
+**stellvertretender Vorsitzender:** 	Helmut Laux 
+
+**Schatzmeister:** 	Manfred Johann 
+
+**Schriftführer:** 	Elisabeth Zenz 
+
+**Beisitzer:** 	 Vera Marx, Gabriele Meurer, Dorothee Müller-Renn, Hilde Roters
 
 Auf Nachfrage erklären alle Gewählten: Wir nehmen die Wahl an.
 
