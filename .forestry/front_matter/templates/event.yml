@@ -21,4 +21,5 @@ fields:
   name: organizer
   label: organizer
 pages:
+- _events/flaschenverlosung.md
 - _events/2019-02-12-einladung-zur-mitgliederversammlung.md
