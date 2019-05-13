@@ -1,15 +1,11 @@
 ---
-title: Flaschenverlosung
-description: Es findet eine Flaschenverlosung statt
-when: 23. Juni 2019
-starts: '10:30'
-where: Vorplatz der Kirche
-organizer: Förderverin
+title: Flaschenverlosung zugunsten unseres Pfarrhauses
+description: "Verlost werden gespendete Flaschen verschiedenen Inhalts.\nJedes Los
+  gewinnt ! "
+when: Sonntag, 23. Juni 2019
+starts: 10:15 Uhr nach dem Gottesdienst in St. Martin
+where: auf den Treppenstufen des moselseitigen Ausgangs von St. Martin
+organizer: Förderverein
 published: false
 
 ---
-Lorem Ipsum,
-
-Sed etiam etc.
-
-![](/images/pic01.jpg)
