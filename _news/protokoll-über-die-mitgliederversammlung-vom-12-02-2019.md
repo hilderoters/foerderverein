@@ -1,5 +1,5 @@
 ---
-title: Protokoll über die Mitgliederversammlung vom 12.02.2019
+title: Protokoll über die Mitgliederversammlung
 category:
 - Aktuelles
 date: 2019-02-12 15:04:19 +0000
