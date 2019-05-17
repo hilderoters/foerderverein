@@ -1,5 +1,5 @@
 ---
-title: Flaschenverlosung zugunsten unseres Pfarrhauses
+title: 'Große Aktion :Flaschenverlosung zugunsten unseres Pfarrhauses  '
 description: "Verlost werden gespendete Flaschen verschiedenen Inhalts.\n\n                                  Jedes
   Los gewinnt ! "
 when: Sonntag, 23. Juni 2019
