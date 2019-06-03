@@ -6,7 +6,6 @@ when: Sonntag, 23. Juni 2019
 starts: 10:15 Uhr nach dem Gottesdienst in St. Martin
 where: auf den Treppenstufen des moselseitigen Ausgangs von St. Martin
 organizer: Förderverein Pfarrzentrum St. Martin e.V.
-published: false
 
 ---
 ![](/images/FV-FA-Plakat-10.jpg)
