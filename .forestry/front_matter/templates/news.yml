@@ -22,7 +22,7 @@ fields:
   default: []
   label: Kategorie
 pages:
-- _news/protokoll-über-die-mitgliederversammlung-vom-12-02-2019.md
-- _news/2018-06-14-veraenderter-zuschnitt-und-neuer-name.md
-- _news/2019-01-10-Zell-soll-Pfarrort-der-neuen-Grosspfarrei-werden.md
 - _news/2017-05-08-pfarreien-der-zukunft.md
+- _news/2019-01-10-Zell-soll-Pfarrort-der-neuen-Grosspfarrei-werden.md
+- _news/2018-06-14-veraenderter-zuschnitt-und-neuer-name.md
+- _news/protokoll-über-die-mitgliederversammlung-vom-12-02-2019.md
