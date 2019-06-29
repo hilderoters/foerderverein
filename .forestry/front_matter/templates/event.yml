@@ -21,6 +21,7 @@ fields:
   name: organizer
   label: organizer
 pages:
+- _events/file.md
 - _events/Plakat-1.md
 - _events/Plakat.md
 - _events/Plakat,Flaschenverlosung.md
