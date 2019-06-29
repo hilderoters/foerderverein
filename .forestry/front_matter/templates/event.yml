@@ -21,6 +21,7 @@ fields:
   name: organizer
   label: organizer
 pages:
+- _events/unsere-flaschenverlosung-am-sonntag-dem-23-juni-2019-erbrachte-das-stolze-ergebnis-von-1820-€.md
 - _events/file.md
 - _events/Plakat-1.md
 - _events/Plakat.md
