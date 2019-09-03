@@ -8,4 +8,6 @@ organizer: Hilde
 published: false
 
 ---
-Es hat sich was verändert...
+Kurze Beschreibung Des Stammtisches hier.
+
+Lorem Ipsum
