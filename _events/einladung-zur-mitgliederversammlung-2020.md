@@ -6,7 +6,6 @@ when: Montag, den 16.03. 2020
 starts: 19:00 Uhr
 where: Obergeschoss der Gaststätte Noss, Moselpromenade 4, Cochem
 organizer: ''
-published: false
 
 ---
 #### Tagesordnung
@@ -17,12 +16,12 @@ published: false
 
 ##### TOP 3: Kassen-  und Kassenprüfberichte
 
-             a) Bericht des Schatzmeisters, ggf. Aussprache
+    a) Bericht des Schatzmeisters, ggf. Aussprache
+    
+    b) Bericht des Kassenprüfers, ggf. Aussprache
 
-             b) Bericht des Kassenprüfers, ggf. Aussprache
+##### TOP 4: Entlastung des Vorstandes
 
-#####  TOP 4: Entlastung des Vorstandes
+##### TOP 5: Neuwahl der Kassenprüfer
 
-#####  TOP 5: Neuwahl der Kassenprüfer
-
-#####  TOP 6: Verschiedenes/ Vorschläge/ Anregungen                   
+##### TOP 6: Verschiedenes/ Vorschläge/ Anregungen
