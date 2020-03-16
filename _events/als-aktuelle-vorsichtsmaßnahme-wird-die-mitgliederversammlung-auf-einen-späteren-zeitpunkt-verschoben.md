@@ -6,5 +6,6 @@ when: ''
 starts: ''
 where: ''
 organizer: ''
+published: false
 
 ---
