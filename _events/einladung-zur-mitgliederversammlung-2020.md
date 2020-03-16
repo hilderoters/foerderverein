@@ -1,11 +1,13 @@
 ---
-title: Einladung zur Mitgliederversammlung 2020
+title: Als aktuelle Vorsichtsmaßnahme wird die Mitgliederversammlung auf einen späteren
+  Zeitpunkt verschoben.
 description: Der Vorstand des Fördervereins Pfarrzentrum St. Martin e.V.lädt alle
   Mitglieder zur Jahreshauptversammlung ein.
 when: Montag, den 16.03. 2020
 starts: 19:00 Uhr
 where: Obergeschoss der Gaststätte Noss, Moselpromenade 4, Cochem
 organizer: ''
+published: false
 
 ---
 #### Tagesordnung
