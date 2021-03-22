@@ -1,5 +1,6 @@
 ---
-title: März 2021, Unser Förderverein in der aktuellen Planung der Bistumsstruktur
+title: März 2021, Die Situation unseres Fördervereins in der aktuellen Planung der
+  Bistumsstruktur
 description: ''
 when: ''
 starts: ''
@@ -8,4 +9,8 @@ organizer: ''
 published: false
 
 ---
-![](/images/forderverein-mitgliederbrief-2021-2.jpeg)![](/images/forderverein-migliederbrief-2021-1.jpeg)
+![](/images/forderverein-migliederbrief-2021-1.jpeg)
+
+![](/images/forderverein-mitgliederbrief-2021-2.jpeg)
+
+* ![](/images/forderverein-mitgliederbrief2021-3.jpeg)![](/images/forderverein-mitgliederbrief-2021-4.jpeg)
