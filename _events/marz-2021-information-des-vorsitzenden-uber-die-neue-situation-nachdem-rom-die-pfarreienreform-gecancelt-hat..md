@@ -6,6 +6,7 @@ when: ''
 starts: ''
 where: ''
 organizer: ''
+published: false
 
 ---
 #### ![](/images/forderverein-migliederbrief-2021-1.jpeg)
