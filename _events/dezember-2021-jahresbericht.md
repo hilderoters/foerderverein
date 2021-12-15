@@ -1,6 +1,6 @@
 ---
 title: Dezember 2021,  Jahresbericht
-description: Der Verwaltungsrat hat  entschieden.
+description: ''
 when: ''
 starts: ''
 where: ''
