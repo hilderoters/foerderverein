@@ -1,6 +1,6 @@
 ---
 title: Jahresbericht 2021
-description: ''
+description: Anfrage  des Fördervereins,die Einräumung eines Erbbaurechtes betreffend.
 when: ''
 starts: ''
 where: ''
