@@ -8,3 +8,4 @@ organizer: ''
 published: false
 
 ---
+![](/images/forderverein-antwort-des-verwaltungsrates-kopie.jpg)
