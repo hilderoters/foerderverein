@@ -1,7 +1,7 @@
 ---
 title: Dezember 2021, der Jahresbericht
-description: mit dem Antrag des Fördervereins an die Kirchengemeinde St. Martin zur
-  Übernahme des Pfarrhauses in Erbbaurecht
+description: Der Jahresbericht beinhaltet den Antrag des Fördervereins an die Kirchengemeinde
+  St. Martin zur Übernahme des Pfarrhauses in Erbbaurecht.
 when: ''
 starts: ''
 where: ''
