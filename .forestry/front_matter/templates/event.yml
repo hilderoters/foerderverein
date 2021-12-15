@@ -21,6 +21,7 @@ fields:
   name: organizer
   label: organizer
 pages:
+- _events/der-verwaltungsrat-hat-entschieden-1.md
 - _events/der-verwaltungsrat-hat-entschieden-dezember-2021.md
 - _events/der-verwaltungsrat-hat-entschieden.md
 - _events/marz-2021-die-situation-unseres-fordervereins-in-der-zukunftigen-neuordnung-der-pfarreien.md
